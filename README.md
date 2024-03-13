@@ -1,5 +1,7 @@
 Julia Projects Repository
+
 About
+
 The Julia Projects Repository contains three small projects written in the Julia programming language, showcasing various aspects of Julia's capabilities.
 
 Projects
